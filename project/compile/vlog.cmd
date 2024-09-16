@@ -1,0 +1,1 @@
+-o C:/My_Designs/project/project/compile -lc C:/My_Designs/project/library.cfg -fl C:/My_Designs/project/project/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -epr C:/My_Designs/project/project/compile/project.epr -O2 -sve -msg 5 -sv2k12 -work project C:/My_Designs/project/project/src/system.v 

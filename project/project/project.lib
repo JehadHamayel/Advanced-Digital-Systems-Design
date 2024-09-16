@@ -1,0 +1,94 @@
+timestamp=1674834510837
+
+[~A]
+C:/My_Designs/project/project/src/system.v=0*1719877*1722920
+LastVerilogToplevel=TrafficLight_test
+ModifyID=383
+Version=74
+c:/My_Designs/project/project/src/system.v=0*1592*2090
+
+[~MFT]
+0=10|0project.mgf|1722920|1186624
+1=12|1project.mgf|3603888|3590901
+3=24|3project.mgf|7240931|7213837
+
+[$root]
+A/$root=22|||1*3596524
+BinW64/$root=3*7217841
+SLP=3*7217956
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216ff2a312827f359c895a40c105fc5a262
+
+[Analyzer]
+A/Analyzer=22|../src/system.v|772|1*3601826
+BinW64/Analyzer=3*7237231
+R=../src/system.v|772
+SLP=3*7239058
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|659b34c1ef5821f505fc9b1422d41e10729e6221e4efaa6a8714f045f53f5933b948fc06e3f9754d2c6fd57977a15430
+
+[TrafficLight]
+A/TrafficLight=22|../src/system.v|33|1*3596946
+BinW64/TrafficLight=3*7218024
+R=../src/system.v|33
+SLP=3*7222104
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|553c464135bc9673937c3329a24dc30b5e47fb952a1a5643505d96cd0b07d4d9e40bf3cd63b9ae5a8391181bd611c986
+
+[TrafficLight_test]
+A/TrafficLight_test=22|../src/system.v|812|1*3603888
+BinW64/TrafficLight_test=3*7240187
+R=../src/system.v|812
+SLP=3*7240931
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a4314e26c0a4959293aa8704ea71af15aadb26e7eb4a7ee4d1a8fd633dd4c63961e45a52ce64e08718715c86f3f60495
+
+[n_bit_counter]
+A/n_bit_counter=22|../src/system.v|32|1*19952
+BinW64/n_bit_counter=3*9513
+R=../src/system.v|32
+SLP=3*10449
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b9e52d41de3ac875cedc76626e1c553ea3c18203dae7c1c2ceae6d84d83e46b205a923c737dd21824cd82f53cbbe6b97
+
+[rom]
+A/rom=22|../src/system.v|734|1*3600683
+BinW64/rom=3*7236188
+R=../src/system.v|734
+SLP=3*7237043
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ebfd4eb2455ce3432cfa489b4a667298f8e5282b84cbb33dc2f78a8185e45865
+
+[system]
+A/system=22|../src/system.v|4|1*374
+BinW64/system=3*183
+R=../src/system.v|4
+SLP=3*299
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e29932ec9028801a910085b17090f1e478f9889e0a1ae275d69113db0f501477
+
+[test]
+A/test=22|../src/system.v|644|1*720542
+BinW64/test=3*1205406
+R=../src/system.v|644
+SLP=3*1206348
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e1f76c805e2c0a9a3d36a8be8882f20604ed8eda96560770f4fab5a032c164ac
+
+[test_generator]
+A/test_generator=22|../src/system.v|412|1*3598935
+BinW64/test_generator=3*7227960
+R=../src/system.v|412
+SLP=3*7231463
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e69872d3d2c2ff26f8df37269324052cafaccb3529a7943e30b652b9355724b9077d0092c656af6b6c8bca5e1b6fc085
+
+[verification]
+A/verification=22|../src/system.v|327|1*279652
+BinW64/verification=3*487179
+R=../src/system.v|327
+SLP=3*488130
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|649cd0269d7cbdde0f2ff702e29a4feba140db1b8703ed4fd7ac144c0ca522fa486878ef912551860ef7e89b1b83d6ef
+
+[~U]
+$root=12|0*1718391|
+Analyzer=12|0*1719409|
+TrafficLight=12|0*1718669|
+TrafficLight_test=12|0*1719649||0x10
+n_bit_counter=12|0*10409||0x10
+rom=12|0*1719193|
+system=12|0*166||0x10
+test=12|0*273451||0x10
+test_generator=12|0*1718936|
+verification=12|0*125168||0x10

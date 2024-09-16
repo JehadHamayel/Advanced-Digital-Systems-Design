@@ -1,0 +1,30 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 35
+MESSAGE "Pass 2. Processing instantiations."
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 52
+UPDATEPROGRESS 59
+UPDATEPROGRESS 66
+UPDATEPROGRESS 73
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+UPDATEPROGRESS 82
+UPDATEPROGRESS 84
+UPDATEPROGRESS 86
+UPDATEPROGRESS 88
+UPDATEPROGRESS 91
+UPDATEPROGRESS 93
+UPDATEPROGRESS 95
+UPDATEPROGRESS 97
+UPDATEPROGRESS 100
+MESSAGE "Unit top modules: TrafficLight_test."
+MESSAGE "$root top modules: system n_bit_counter verification TrafficLight_test test."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+WARNING ALOG: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "done"

@@ -1,0 +1,38 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=project
+[Library]
+project=.\project\project.lib
+[$LibMap$]
+project=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+[IMPLEMENTATION]
+UCF=
+[Files]
+/system.v=-1
+/pwav.asdb=-1
+/pwav.awc=-1
+/wavProj.asdb=-1
+/wavProj.awc=-1
+[Files.Data]
+.\src\system.v=Verilog Source Code
+.\src\pwav.asdb=Accelerated Waveform File
+.\src\pwav.awc=Accelerated Waveform Configuration
+.\src\wavProj.asdb=Accelerated Waveform File
+.\src\wavProj.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
